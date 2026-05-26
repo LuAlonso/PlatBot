@@ -1,2 +1,2 @@
-# Platform_Game
-Game made using godot 
+# PlatBot Game
+Simple platformer made using godot 
